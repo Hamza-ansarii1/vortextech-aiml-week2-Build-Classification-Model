@@ -83,7 +83,7 @@ jupyter notebook
 
 ```
 vortextech-aiml-week2-Build-Classification-Model/
-│── Task2_Build_Classification_Model.ipynb
+│── Task 2 Build a Classification Model.ipynb
 │── titanic.csv
 └── README.md
 ```
@@ -101,7 +101,6 @@ vortextech-aiml-week2-Build-Classification-Model/
 **Hamza Naeem Ansari**
 
 BS Information Technology  
-University of Sindh, Jamshoro
 
 GitHub: https://github.com/Hamza-ansarii1
 
