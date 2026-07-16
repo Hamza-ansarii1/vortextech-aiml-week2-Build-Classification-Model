@@ -82,7 +82,7 @@ jupyter notebook
 ## 📁 Project Structure
 
 ```
-vortextech-aiml-week2/
+vortextech-aiml-week2-Build-Classification-Model/
 │── Task2_Build_Classification_Model.ipynb
 │── titanic.csv
 └── README.md
