@@ -103,7 +103,7 @@ vortextech-aiml-week2/
 BS Information Technology  
 University of Sindh, Jamshoro
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Hamza-ansarii1
 
 ---
 
