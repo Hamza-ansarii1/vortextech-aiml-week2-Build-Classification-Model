@@ -60,7 +60,7 @@ The model is evaluated using:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/vortextech-aiml-week2.git
+https://github.com/Hamza-ansarii1/vortextech-aiml-week2-Build-Classification-Model.git
 ```
 
 2. Install the required libraries
